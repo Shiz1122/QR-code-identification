@@ -1,0 +1,12 @@
+D:\VS\2D_Zebra\2D_Zebra\bin\Debug\2D_Zebra.exe.config
+D:\VS\2D_Zebra\2D_Zebra\bin\Debug\2D_Zebra.exe
+D:\VS\2D_Zebra\2D_Zebra\bin\Debug\2D_Zebra.pdb
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.csproj.AssemblyReference.cache
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.csproj.SuggestedBindingRedirects.cache
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\_2D_Zebra.Form1.resources
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\_2D_Zebra.Properties.Resources.resources
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.csproj.GenerateResource.cache
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.csproj.CoreCompileInputs.cache
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.csproj.CopyComplete
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.exe
+D:\VS\2D_Zebra\2D_Zebra\obj\Debug\2D_Zebra.pdb
